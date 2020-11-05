@@ -45,15 +45,15 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/le09n7u64fwu3cnkoec3fxc8q)
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: GitHub Status</summary>
 
  <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubhambhawsar-5782&count_private=true&show_icons=true&hide_border=true&theme=buefy" />
 
 </details>
 <details>
-  <summary>:zap: GitHub Stats</summary>
-  
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-tiwari&hide_border=true&theme=buefy" />
+  <summary>:zap: GitHub Status(Most Used Languages)</summary>
+
+<img align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhambhawsar-5782&hide_border=true&theme=buefy" />
 </details>
 
 [hackerrank]: https://www.hackerrank.com/bhawsar5782
