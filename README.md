@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Shubham 👋
 
-**shubhambhawsar-5782/shubhambhawsar-5782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+## I'm a Student!
 - 🔭 I’m currently working on Final year project with Python.
 - 🌱 I’m currently learning Everything for placement 🤣
 - 👯 I’m looking to collaborate with other content creators
