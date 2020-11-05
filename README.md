@@ -50,6 +50,11 @@
  <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubhambhawsar-5782&count_private=true&show_icons=true&hide_border=true&theme=buefy" />
 
 </details>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  
+<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-tiwari&hide_border=true&theme=buefy" />
+</details>
 
 [hackerrank]: https://www.hackerrank.com/bhawsar5782
 [linkedin]: https://linkedin.com/in/shubhambhawsar-5782
