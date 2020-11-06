@@ -9,9 +9,10 @@
 - ⚡ Fun fact: I love to play cricket / Interact with new Friends.
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Shubham_Bhawsar | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="Shubham_Bhawsar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Shubham_Bhawsar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -59,5 +60,6 @@
 [hackerrank]: https://www.hackerrank.com/bhawsar5782
 [linkedin]: https://linkedin.com/in/shubhambhawsar-5782
 [instagram]: https://instagram.com/shubham.bhawsar.5782
+[twitter]: https://twitter.com/shubham5782
 [quora]: https://www.quora.com/profile/Shubham-Bhawsar-31
 
