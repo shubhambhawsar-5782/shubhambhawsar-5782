@@ -1,8 +1,8 @@
-# [Hi there, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">I'm Shubham Bhawsar](https://ayushirawat.com/)
+# [Hi there, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Shubham Bhawsar]
 
 ## I'm a Student!
 
-### My Tech Toolbox 🧰
+### 🧰 My Tech Toolbox 
 
 - 🌱 I’m currently learning MERN Development.Passionate for learning & exploring new Tech.
 - 🔭 I’m currently working on Final year project with Python.
