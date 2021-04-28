@@ -47,6 +47,13 @@
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/le09n7u64fwu3cnkoec3fxc8q)
 
+ <details>
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shubhambhawsar-5782&show_icons=true&theme=gotham" alt="Shubham Bhawsar | Stats" />
+
+</details>
+
 <details>
   <summary>:zap: GitHub Status</summary>
 
