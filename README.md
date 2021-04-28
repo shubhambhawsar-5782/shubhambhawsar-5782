@@ -1,8 +1,8 @@
-### Hi there, I'm Shubham 👋
+## Hi there, I'm Shubham 👋
 
 ## I'm a Student!
 
-## My Tech Toolbox 🧰
+### My Tech Toolbox 🧰
 
 - 🌱 I’m currently learning MERN Development.Passionate for learning & exploring new Tech.
 - 🔭 I’m currently working on Final year project with Python.
